@@ -28,4 +28,6 @@ All required neuroimaging software (FreeSurfer, deepRetinotopy) is available via
 
 ## Reference
 
-Ribeiro, F. L. et al. (2025). Predicting functional topography of the human visual cortex from cortical anatomy at scale. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.27.690210v2)
+**DeepRetinotopy Toolbox:** Ribeiro, F. L. et al. (2025). Predicting functional topography of the human visual cortex from cortical anatomy at scale. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.27.690210v2)
+
+**Neurodesk:** Renton, A.I., Dao, T.T. et al. (2024). Neurodesk: an accessible, flexible and portable data analysis environment for reproducible neuroimaging. [Nature Methods](https://doi.org/10.1038/s41592-023-02145-x)
