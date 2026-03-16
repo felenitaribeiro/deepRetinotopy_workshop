@@ -14,6 +14,10 @@ Two notebooks are provided depending on whether participants bring their own dat
 - **`1_deepretinotopy_wo-data.ipynb`** -- Downloads example data from the [NYU Retinotopy Dataset](https://openneuro.org/datasets/ds003787) (via DataLad) and runs the full pipeline: data setup, single-subject and multi-subject processing, and interactive visualization.
 - **`1_deepretinotopy_w-data.ipynb`** -- For participants with their own FreeSurfer outputs. Covers loading custom data, running predictions, and visualizing results.
 
+### Part 2: Estimating cortical surface area
+
+- **`2_surface_area.ipynb`** -- Uses the predicted retinotopic maps from Part 1 to estimate cortical surface area within visual field regions and ROIs. Covers atlas-based ROI registration (V1--V3), cortical magnification analysis, and visual field sign analysis [optional].
+
 ## Platform
 
 These notebooks are designed to run on [Neurodesk](https://www.neurodesk.org/), an open platform that provides a reproducible environment for neuroimaging analysis with pre-installed tools. The easiest way to get started is through [Neurodesk Play](https://play.neurodesk.org/), a cloud-based JupyterLab instance that requires no local installation -- just open it in your browser and you're ready to go.
